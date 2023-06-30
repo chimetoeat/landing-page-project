@@ -104,7 +104,7 @@ a {
     gap: 50px;
     margin-bottom: 100px;
     justify-content: space-between;
-    align-items: center;
+    align-items: start;
 }
 
 
@@ -114,6 +114,7 @@ a {
     justify-content: center;
     align-items: center;
     text-align: center;
+    gap: 20px;
 }
 
 .section-two .features .card img {
